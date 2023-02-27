@@ -1,4 +1,3 @@
-simple text
 test2
 local test
 test3
